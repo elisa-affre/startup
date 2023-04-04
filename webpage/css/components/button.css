@@ -1,0 +1,40 @@
+.btn-blue{
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-blue:hover {
+	background-color: #FED8B1;
+	color: white;
+}
+
+.btn-blue1{
+	background-color: #FED8B1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.btn-blue1:hover {
+	background-color: orange;
+	color: white;
+	align-items: center;
+}
+
+.btn-blue2{
+	padding: 15px 20px;
+	color: #FED8B1;
+	font-weight: bold;
+	text-align: center;
+}
+
+.btn-blue2:hover {
+	border-color: orange;
+	color: orange;
+	align-items: center;
+}
